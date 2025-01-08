@@ -50,7 +50,6 @@
 						<deploymentSettings>
 							<http>
 								<inbound>
-									<forwardSslSession>true</forwardSslSession>
 									<lastMileSecurity>true</lastMileSecurity>
 								</inbound>
 							</http>
