@@ -49,13 +49,12 @@
 							<http>
 								<inbound>
 									<publicUrl>${publicURL}</publicUrl>
-									<forwardSslSession>true</forwardSslSession>
+									<forwardSslSession>false</forwardSslSession>
 									<lastMileSecurity>true</lastMileSecurity>
 								</inbound>
 							</http>
 						</deploymentSettings>
 					</cloudhub2Deployment>
-					<classifier>mule-application-example</classifier>
 				</configuration>
 
 			</plugin>
