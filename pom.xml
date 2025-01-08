@@ -50,8 +50,7 @@
 						<deploymentSettings>
 							<http>
 								<inbound>
-									<publicUrl>${publicURL}</publicUrl>
-									<forwardSslSession>false</forwardSslSession>
+									<forwardSslSession>true</forwardSslSession>
 									<lastMileSecurity>true</lastMileSecurity>
 								</inbound>
 							</http>
