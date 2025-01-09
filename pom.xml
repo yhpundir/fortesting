@@ -33,7 +33,7 @@
 						<provider>MC</provider>
 						<environment>Sandbox</environment>
 						<target>Cloudhub-US-East-2</target>
-						<server>Repository</server>
+						<server>anypoint-id</server>
 						<username>YashPundir_Dec</username>
 						<password>Yash123@</password>
 						<applicationName>fortesting</applicationName>
