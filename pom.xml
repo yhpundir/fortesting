@@ -4,15 +4,15 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>db6553ae-666a-44b2-8b95-02092b0cccf2</groupId>
-	<artifactId>cicd2</artifactId>
+	<artifactId>fortesting</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 	<name>fortesting</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<app.runtime>4.8.1</app.runtime>
-		<mule.maven.plugin.version>4.3.0</mule.maven.plugin.version>
+		<app.runtime>4.7.0</app.runtime>
+		<mule.maven.plugin.version>4.2.0</mule.maven.plugin.version>
 	</properties>
 	<build>
 		<plugins>
