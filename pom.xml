@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>db6553ae-666a-44b2-8b95-02092b0cccf2</groupId>
+	<groupId>com.mycompany</groupId>
 	<artifactId>fortesting</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
 	<name>fortesting</name>
 
-	<description/>
+	<description />
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<app.runtime>4.4.0</app.runtime>
 		<mule.maven.plugin.version>4.2.0</mule.maven.plugin.version>
-		<tags/>
+		<tags />
 		<categories>[]</categories>
 		<fields>[]</fields>
 	</properties>
@@ -27,6 +29,7 @@
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-clean-plugin</artifactId>
 				<version>3.2.0</version>
+
 			</plugin>
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
