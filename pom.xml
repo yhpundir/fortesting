@@ -64,7 +64,7 @@
 	</dependencies>
 	<repositories>
 		<repository>
-			<id>Repository</id>
+			<id>anypoint-exchange-v3</id>
 			<name>Anypoint Exchange</name>
 			<url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
 			<layout>default</layout>
